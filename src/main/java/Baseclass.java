@@ -18,6 +18,7 @@ public void test()
       Assert.assertEquals(true, true);
     System.out.println("Hello");
     System.out.println("world");
+    System.out.println("software");
 	}
 	
 }
