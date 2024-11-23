@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 public class Baseclass {
 
 	
-	int a=10;
+	int a=20;
 	int b=20;
 	
  @Test
