@@ -16,7 +16,7 @@ public void test()
 	int c=a+b;
 
       Assert.assertEquals(true, true);
-
+    System.out.println("Hello");
 	}
 	
 }
